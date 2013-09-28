@@ -10,3 +10,5 @@ I logged this data and later created this graph using the collected data:
 
 If you have more data or are the guy who created and distributed these devices, please drop me a mail.
 
+Also, note how absolutely *cool* the **Darksystem village** was!!! :-)
+
