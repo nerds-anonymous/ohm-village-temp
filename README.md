@@ -5,7 +5,7 @@ Some dude on the [OHM camp](https://ohm2013.org/) distributed wireless temperatu
 
 I logged this data and later created this graph using the collected data:
 
-![ohm2013 temperature graph](https://raw.github.com/dramaturg/ohm-village-temp/master/graph_coolness.png)
+![ohm2013 temperature graph](https://raw.github.com/nerds-anonymous/ohm-village-temp/master/graph_coolness.png)
 
 
 If you have more data or are the guy who created and distributed these devices, please drop me a mail.
